@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.google.truth/truth:0.24">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/google/truth/truth/0.24/truth-0.24.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
